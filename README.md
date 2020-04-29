@@ -16,6 +16,7 @@ npm run serve
 ```
 npm run build
 ```
+To serve build, use something like `serve -s dist` (`npm install -g serve`)
 
 ### Lints and fixes files
 ```
